@@ -6,11 +6,11 @@ Create fancy, stylish, and Unicode-rich text for social media, Instagram bios, n
 
 🔗 Direct access to:
 
-Letras Diferentes
+ [Letras Diferentes](https://geradornicks.com.br/letras-bonitas/) 
 
-Fontes para Instagram
+ [Fontes Para Instagram](https://geradornicks.com.br/fontes-para-instagram/)
 
-Letras Cursivas e Bonitas
+ [Letras Cursivas e Bonitas](https://letrasbonitasbr.com/letras-diferentes/)
 
 Nomes Personalizados
 
