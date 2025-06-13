@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PAD>
+  <Program_Info>
+    <Program_Name>Stylish Text Generator</Program_Name>
+    <Program_Version>1.0</Program_Version>
+    <Program_Release_Month>06</Program_Release_Month>
+    <Program_Release_Day>13</Program_Release_Day>
+    <Program_Release_Year>2025</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Cost_Other>Free</Program_Cost_Other>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Release_Status>New Release</Program_Release_Status>
+    <Program_Install_Support>No Install Support</Program_Install_Support>
+    <Program_OS_Support>Windows 10, Chrome Browser</Program_OS_Support>
+    <Program_Language>Portuguese, English</Program_Language>
+    <Program_Change_Info>Initial release</Program_Change_Info>
+    <Program_Specific_Category>Chrome Extension</Program_Specific_Category>
+    <Program_Category_Class>Internet::Browser Tools</Program_Category_Class>
+  </Program_Info>
+
+  <Program_Descriptions>
+    <English_Description>
+      Stylish Text Generator is a free Chrome extension that gives users instant access to stylish text, Unicode fonts, and nickname generators for social media. Perfect for Instagram bios, TikTok, and more.
+    </English_Description>
+  </Program_Descriptions>
+
+  <Program_Links>
+    <Application_URL>https://github.com/YOUR_USERNAME/YOUR_REPO</Application_URL>
+    <Download_URL>https://github.com/YOUR_USERNAME/YOUR_REPO/archive/refs/heads/main.zip</Download_URL>
+    <Screenshot_URL>https://YOUR_SCREENSHOT_LINK</Screenshot_URL>
+  </Program_Links>
+
+  <Publisher_Info>
+    <Company_Name>YOUR NAME</Company_Name>
+    <Author_First_Name>YourFirstName</Author_First_Name>
+    <Author_Last_Name>YourLastName</Author_Last_Name>
+    <Address_1></Address_1>
+    <City></City>
+    <State_Province></State_Province>
+    <Zip_Postal_Code></Zip_Postal_Code>
+    <Country>Brazil</Country>
+    <Email>youremail@example.com</Email>
+    <Website_URL>https://github.com/YOUR_USERNAME/YOUR_REPO</Website_URL>
+  </Publisher_Info>
+</PAD>
